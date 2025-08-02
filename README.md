@@ -8,7 +8,7 @@
 <!-- 🧑‍💻 Coding Animations Start -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Developer Desk Animation" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" alt="flat style developer animation" />
 </p>
 
 <!-- 🧑‍💻 Coding Animations End -->
