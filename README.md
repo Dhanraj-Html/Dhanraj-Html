@@ -5,9 +5,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<!-- 🧑‍💻 Coding Animations Start -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Developer Desk Animation" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Dark Mode Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="450" alt="Neon Coding Loop Animation" />
+</p>
+
+<!-- 🧑‍💻 Coding Animations End -->
 
 ---
 
