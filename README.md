@@ -8,7 +8,7 @@
 <!-- 🧑‍💻 Coding Animations Start -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA3NDI3YmJkYzI4NzM1N2Q3ZTc1MDJjZjc3ZjQ4OWFhY2VhYTJhNyZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="450" alt="fast typing coder animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <!-- 🧑‍💻 Coding Animations End -->
