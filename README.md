@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding gif"/>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -50,5 +54,3 @@
 ---
 
 > _“Letting go of those you love isn’t weakness; sometimes it’s the strength to grow.”_
-
----
