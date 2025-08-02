@@ -9,7 +9,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 - 🔭 I’m working on **a personal portfolio and open-source contributions**
 - 💬 Ask me about **C, JavaScript, Python, and Web Development**
 - 📫 How to reach me: [dhanrajraul93@gmail.com](mailto:dhanrajraul93@gmail.com)  
