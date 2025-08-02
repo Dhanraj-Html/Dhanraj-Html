@@ -8,7 +8,7 @@
 <!-- 🧑‍💻 Coding Animations Start -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" alt="flat style developer animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA3NDI3YmJkYzI4NzM1N2Q3ZTc1MDJjZjc3ZjQ4OWFhY2VhYTJhNyZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="450" alt="fast typing coder animation" />
 </p>
 
 <!-- 🧑‍💻 Coding Animations End -->
