@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Raul</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanraj-Html&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
