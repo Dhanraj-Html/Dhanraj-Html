@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  interested Dhanraj Raul</h1>
+<h1 align="center">Hi, I'm Dhanraj Raul</h1>
 <h3 align="center">🎓 Bsc.CS Student | 💻 Programming Enthusiast</h3>
 
 <p align="center">
