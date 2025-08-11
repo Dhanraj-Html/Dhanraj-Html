@@ -19,7 +19,7 @@
 
 - 🔭 I’m working on **a personal portfolio and open-source contributions**
 - 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📫 How to reach me: [dhanrajraul93@gmail.com](mailto:dhanrajraul93@gmail.com)  
+- 📫 How to reach me: [dhanrajraul93@gmail.com](e-mailto:dhanrajraul93@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/dhanraj-raul-33b5b1378)
 - ⚡ Fun fact: I enjoy debugging more than writing code 😄
 
